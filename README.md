@@ -27,6 +27,7 @@ Currently, I’m diving deep into **Data Science**, **Machine Learning**, and **
 - LinkedIn: [Abdullah's LinkedIn](https://www.linkedin.com/in/abdullah-dabbousy-a1163b336/)
 - Email: [abdullah.dabbousy6@gmail.com](mailto:abdullah.dabbousy6@gmail.com)
 
+<!---
 ## GitHub Stats 📊
 
 ![Your stats](https://github-readme-stats.vercel.app/api?username=adabbousy&show_icons=true&hide_title=true)
